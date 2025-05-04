@@ -1,16 +1,19 @@
 ## Hi there 👋
+- I'm Musenmy  (Japanese むせんまい, pronounce like moo-sén-mai)
+- I can use English and Japanese
+- I'm a university student
+- I'm Japanese, Nagoyan
+- I made some Discord apps and webtools
+- I usually use Node.js
 
-<!--
-**Musenmy/Musenmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+- Discord: musenmy
+- I don't use LINE, Facebook, Messanger and so on
+- I don't have my domain yet so there's no private email
 
-Here are some ideas to get you started:
+## My Activity Summary
+Made by [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards). Thanks for useful tool!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musenmy&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=musenmy&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=musenmy&theme=github_dark&utcOffset=8)
