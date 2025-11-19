@@ -1,6 +1,5 @@
 ## Hi there 👋
-- I'm Musenmy  (Japanese むせんまい, pronounce like moo-sén-mai)
-- I can use English and Japanese
+- I use English and Japanese
 - I'm a university student
 - I'm Japanese, Nagoyan
 - I made some Discord apps and webtools
